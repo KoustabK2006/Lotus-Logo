@@ -15,9 +15,11 @@ Hover over the logo to watch the petals and leaves open while the text lifts awa
 ## 🚀 Getting Started
 
 1. Clone the repository:
+
     ```bash
-    git clone https://github.com/<your-username>/Lotus-Logo.git
+    git clone https://github.com/KoustabK2006/Lotus-Logo.git
     ```
+
 2. Open `index.html` in any browser.
 
 ## 🧩 Using the Logo in Your Own Project
@@ -74,4 +76,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ## 👤 Author
 
-Designed by **@KK**, 2023.
+Designed by **Koustab Koley**, 2023.
