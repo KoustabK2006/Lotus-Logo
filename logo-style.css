@@ -1,3 +1,28 @@
+/* LOTUS Logo by @KK
+
+Please have a look at our "#Read-Me-Before-Execution" before applying/customizing of the logo.
+
+*/
+
+/* #Read-Me-Before-Execution
+
+Copy this entire "logo-style.css" and follow the steps below -
+    • Copy and Paste the "#Reqiured-Imports" Section to your CSS Stylesheet.
+    • Copy and Paste the "#Reqiured-HTML" Section to your HTML Page.
+    • Copy and Paste the "#Reqiured-CSS" Section to your CSS Stylesheet.
+
+After following the above steps, here are few things to keep in mind before using the logo
+    • "#Required-CSS" must be pasted after "#Required-Imports" is pasted.
+    • For adjusting the backdrop blur, jump to line number 108 and adjust according to your needs.
+    • For scaling up or down the Logo, jump to line number 116 and scale the logo according to your needs.
+    • For adjusting the box shadow effect, jump to line number 109, 392 and adjust according to your needs.
+    • The "body" must have these three CSS properties for the Logo to fully work -
+        → display: flex;
+        → justify-content: center;
+        → align-items: center;
+
+*/
+
 /* #Required-HTML (Head)   (Must be pasted at a ".html" page extension)
 
   <link rel="stylesheet" href="....css">
