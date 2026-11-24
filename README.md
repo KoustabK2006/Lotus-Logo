@@ -72,8 +72,12 @@ Lotus-Logo/
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it, and credit is appreciated.
+This project is licensed under the [MIT License](LICENSE).
+
+```
+Copyright (c) 2024-2026 Koustab Koley
+```
 
 ## 👤 Author
 
-Designed by **Koustab Koley**, 2023.
+**Koustab Koley**
