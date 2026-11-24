@@ -68,7 +68,7 @@ Lotus-Logo/
 
 ## 📸 Preview
 
-> Add a screenshot or GIF of the hover and click effects here.
+![Logo Preview](logo-preview.png)
 
 ## 📄 License
 
