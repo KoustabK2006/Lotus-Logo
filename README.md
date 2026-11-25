@@ -81,3 +81,8 @@ Copyright (c) 2024-2026 Koustab Koley
 ## 👤 Author
 
 **Koustab Koley**
+
+- GitHub: [@KoustabK2006](https://github.com/KoustabK2006/)
+- LinkedIn: [Koustab Koley](https://www.linkedin.com/in/koustab-koley/)
+
+⭐ If you enjoyed the game, consider giving the repo a star!
